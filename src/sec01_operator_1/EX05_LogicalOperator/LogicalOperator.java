@@ -1,6 +1,9 @@
 package sec01_operator_1.EX05_LogicalOperator;
 
+/*논리연산자와 비트연산자를 이용한 논리연산*/
+
 public class LogicalOperator {
+
 	public static void main(String[] args) {
 		
 		//#1.논리연산자
@@ -54,9 +57,9 @@ public class LogicalOperator {
 		int value4 = 3;
 		System.out.println(true | ++value4>6); //true
 		System.out.println(value4); //4
-				
 		
 	}
+	
 }
 
 

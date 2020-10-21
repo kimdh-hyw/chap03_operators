@@ -1,6 +1,9 @@
 package sec01_operator_1.EX01_ArithmeticOperator;
 
+/*산술연산자와 세가지 경우의 증감연산자*/
+
 public class ArithmeticOperator {
+
 	public static void main(String[] args) {
 		
 		//#1. 산술연산자

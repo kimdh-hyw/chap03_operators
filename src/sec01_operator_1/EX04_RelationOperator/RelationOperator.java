@@ -1,6 +1,9 @@
 package sec01_operator_1.EX04_RelationOperator;
 
+/*크기비교 및 등가비교와 참조자료형의 등가비교*/
+
 public class RelationOperator {
+
 	public static void main(String[] args) {
 		
 		//#1. 크기비교 (<, >, <=, >=) : true, false
@@ -24,5 +27,7 @@ public class RelationOperator {
 		String str1 = new String("안녕");
 		String str2 = new String("안녕");
 		System.out.println(str1 == str2); //false
+
 	}
+	
 }
